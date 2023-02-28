@@ -1,0 +1,173 @@
+/* .container{
+    border: 1px solid black;
+}
+.container-fluid{
+    border: 1px solid red;
+ 
+}
+.col-lg-8, .col-lg-4{
+    border: 2px dashed green;
+} */
+span{
+   
+    height: 20px;
+    text-align: left;
+    color: red;
+}
+
+
+.logo{
+    /* width: 60px;
+    height: 60px;
+    background-color: #fff;
+ 
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+  
+    padding: 0% ;
+    width: 250px;
+    height: 120px; */
+}
+.logo .nombre{
+    font-size: 22px;
+  
+
+}
+
+
+.nav .nav-item a{
+    color: white;
+    
+    
+}
+
+.naviguation{
+    background-color:#009ED7;
+}
+.nav-highlight{
+    background-color: #009ED7;
+    padding: 0px 6px;
+    margin: 0.5rem 0.5rem;
+    border-radius: 5px;
+   
+}
+.Notification {
+    background-color: rgb(236, 138, 1);
+    /* border: 1px solid red; */
+    color: white;
+    padding: 5px 0px;
+    text-align: right;
+}
+.text-center{
+    margin: 0px auto;
+   
+}
+.col-sm-6{
+    /* border: 1px solid red; */
+   padding: 0px 0px;
+
+}
+.infos{
+background-color: rgb(236, 138, 1);
+text-align: center;
+color: white;
+
+padding: 5px 15px;
+font-size: 15px;
+}
+/* .anonce{
+border: 2px dashed green;
+} */
+/* .col-12, .col-9, .col-3{
+    border: 2px dashed green;
+    } */
+    
+    .info-continu{
+        background-color: #EEEEEE;
+    }
+body{
+    background-color: rgb(197, 216, 232);
+}
+.logo img{
+    width: 90px;
+    height: 90px;
+    
+   border-radius:  50%;
+}
+.carousel-item .logo img{ 
+    border-radius:  50%;
+    width: 100px;
+    height: 120px;
+    
+   border-radius:  0%;
+ }
+/* .col-4{
+    width: 10px;
+    height: 140px;
+      
+   border-radius:  50%;
+} */
+/* .container-fluid{
+    background-color: blue;
+} */
+h2{
+ color: red;
+ text-align: center;
+}
+ .actualité{
+    width: 222.67px;
+    height: 167.1px;
+}
+.footere{
+    background: gray;
+}
+span li{
+    color: #0b44f0;
+}
+ul{
+    list-style: none;
+}
+.deroulant{
+    display: block;
+  margin: top 10px ;
+}
+.option{
+    position: relative;
+    left: -19px;
+    float: left;
+}
+.listonglet {
+    display: flex;
+    justify-content: center;
+
+}
+.onglet{
+    font-weight: 600;
+}
+.dropdown-menu{
+    background:black;
+}
+footer{
+    background-color: rgb(236, 130, 8);
+}
+.Notification .container{
+    animation: Scroll 15s linear infinite;
+}
+
+@keyframes Scroll {
+    0%{
+        transform: translate(0%);
+    }
+
+    100%{
+        transform: translateX(-100%);
+    }
+}
+
+.titre {
+    font-size: 35;
+}
+/* h6{
+    font-size: 50;
+} */
